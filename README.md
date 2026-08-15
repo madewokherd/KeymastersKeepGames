@@ -1,0 +1,18 @@
+Repository of my Keymaster's Keep game implementations.
+
+### A Link To The Past Randomizer
+
+I made this version to give me an excuse to play some overworld randomizer seeds, but it should work with any stand-alone lttpr settings.
+
+The intent is to roll 1 seed per KMK area with your preferred settings and do all of that area's goals in that seed. If you play in medley mode, uh, I dunno, you decide how to deal with that.
+
+I suggest setting the goal to Fast Ganon (open pyramid) and the crystal requirement for Ganon to 0, in case you have "Defeat Ganon" as an objective.
+
+### HyperRogue
+
+This was an excuse to play with some weird game options (which you wouldn't get with either AP mod), and create some interesting routing challenges.
+
+The "pure tactics mode" multiplier is shown in the right column of the world list in pure tactics mode, when no special modes are enabled. If you are playing in an extra special mode, and most of your lands allow 3 scores with a multiplier of 1, multiply by `([number of scores in base ptm] * [multiplier in base ptm]) / ([actual number of scores] * [actual multiplier])`.
+
+The Thorns and Orb Shuffle mods are available from my fork of Hyperrogue: https://github.com/madewokherd/hyperrogue/releases
+

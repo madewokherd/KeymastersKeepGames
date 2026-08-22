@@ -16,6 +16,10 @@ The "pure tactics mode" multiplier is shown in the right column of the world lis
 
 The Thorns and Orb Shuffle mods are available from my fork of Hyperrogue: https://github.com/madewokherd/hyperrogue/releases
 
+### puzz.link
+
+A website for sharing pen-and-paper puzzles.
+
 ### SMW Practice Cart
 
 Available [here](https://isofrieze.com/romhacks/smwpractice/).

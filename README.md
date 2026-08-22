@@ -16,3 +16,9 @@ The "pure tactics mode" multiplier is shown in the right column of the world lis
 
 The Thorns and Orb Shuffle mods are available from my fork of Hyperrogue: https://github.com/madewokherd/hyperrogue/releases
 
+### SMW Practice Cart
+
+Available [here](https://isofrieze.com/romhacks/smwpractice/).
+
+Each gold time is a goal, except for Donut Ghost House exits to Top Secret Area without the cape, which I don't know how you're expected to do.
+

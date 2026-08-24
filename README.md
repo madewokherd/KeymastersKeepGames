@@ -30,3 +30,7 @@ Available [here](https://isofrieze.com/romhacks/smwpractice/).
 
 Each gold time is a goal, except for Donut Ghost House exits to Top Secret Area without the cape, which I don't know how you're expected to do.
 
+### VVVVVV
+
+There's not as much to do in this game as I hoped, and I didn't want to do goals that involve playing through the full game, so this is mostly just the custom levels, which will need to be enabled with the `vvvvvv_custom_levels` setting (and depend on having version 2 of the game). At least you can unlock everything in the options menu.
+

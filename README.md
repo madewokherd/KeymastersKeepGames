@@ -24,6 +24,10 @@ This is meant to be played in New Game or New Groan+ mode, with a new random sav
 
 A website for sharing pen-and-paper puzzles.
 
+### Slay The Princess
+
+This is just all of the Gallery scenes in the game as individual goals. You should have the Gallery unlocked first.
+
 ### SMW Practice Cart
 
 Available [here](https://isofrieze.com/romhacks/smwpractice/).
